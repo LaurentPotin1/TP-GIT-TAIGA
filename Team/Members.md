@@ -1,1 +1,2 @@
 Laurent Potin
+Thibault Langlard
